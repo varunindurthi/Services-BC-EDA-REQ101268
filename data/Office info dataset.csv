@@ -1,0 +1,82 @@
+﻿OfficeID,OfficeName,City,OfficeSize,Area,AreaName,Address,Latitude,Longitude
+1,100 Mile House,100 Mile House,MICRO,4,Central Peace,300 Hwy 97,51.644455,-121.297478
+2,Ashcroft,Ashcroft,MICRO,4,Interior,318 Railway Ave,50.720196,-121.28096
+3,Atlin,Atlin,MICRO,1,Lower Mainland Capital,100 - 3rd St,59.57803,-133.689529
+4,Bella Coola,Bella Coola,MICRO,3,Lower Mainland Capital,636 Cliff St,52.372311,-126.754929
+5,Burns Lake,Burns Lake,MICRO,2,North Coast,161 Hwy 16,54.225189,-125.755997
+6,Campbell River,Campbell River,LARGE,3,Vancouver Island,UNIT 115 -- 1180 Ironwood St,50.026196,-125.255341
+7,Chetwynd,Chetwynd,SMALL,2,Central Peace,4744 52nd St NW,55.69812,-121.633568
+8,Chilliwack,Chilliwack,LARGE,7,Lower Mainland Capital,SUITE 1 -- 45467 Yale Rd,49.148037,-121.964371
+9,Clinton,Clinton,MICRO,4,Interior,RM 102 -- 1423 Hwy 97,51.091679,-121.586548
+10,Courtenay,Courtenay,LARGE,3,Vancouver Island,2500 Cliffe Ave,49.676392,-124.982185
+11,Cranbrook,Cranbrook,LARGE,6,Kootenay,100 Cranbrook St N,49.514183,-115.766701
+12,Creston,Creston,SMALL,6,Kootenay,1404 Canyon St,49.095634,-116.509323
+13,Dawson Creek,Dawson Creek,MEDIUM,2,Central Peace,1201 103 Ave,55.758682,-120.235703
+14,Dease Lake,Dease Lake,SMALL,1,North Coast,Hwy 37,58.434784,-129.986115
+15,Duncan,Duncan,LARGE,7,Vancouver Island,5785 Duncan St,48.780663,-123.706764
+16,Fernie,Fernie,SMALL,6,Kootenay,401 4th Ave,49.503906,-115.064972
+17,Fort Nelson,Fort Nelson,SMALL,1,Central Peace,5319 50th Ave S,58.804218,-122.706429
+18,Fort St. James,Fort St. James,MICRO,2,North Coast,470 Stuart Dr W,54.444965,-124.258308
+19,Fort St. John,Fort St. John,LARGE,2,Central Peace,10600 100 St,56.252186,-120.848259
+20,Ganges,Salt Spring Island,MICRO,3,Lower Mainland Capital,343 Lower Ganges Rd,48.860123,-123.508842
+21,Golden,Golden,MICRO,5,Kootenay,837 Park Dr,51.296452,-116.96579
+22,Grand Forks,Grand Forks,SMALL,6,Kootenay,7290 2nd St,49.032658,-118.436592
+23,Hazelton,Hazelton,MICRO,1,North Coast,2210 Hwy 62,55.257271,-127.659248
+24,Houston,Houston,MICRO,1,North Coast,3400 11th St,54.398605,-126.646774
+25,Invermere,Invermere,MICRO,6,Kootenay,625 4th St,50.50959,-116.028587
+26,Kamloops,Kamloops,LARGE,4,Interior,UNIT 250 -- 455 Columbia St,50.670486,-120.330704
+27,Kaslo,Kaslo,MICRO,6,Kootenay,312 4th St,49.911354,-116.904266
+28,Kelowna,Kelowna,MEDIUM,5,Interior,UNIT 305 -- 478 Bernard Ave,49.88638,-119.49374
+29,Kitimat,Kitimat,MICRO,1,North Coast,795 S Lahakas Blvd,54.054947,-128.65802
+30,Lillooet,Lillooet,SMALL,4,Interior,SUITE A -- 639 Main St,50.693432,-121.934807
+31,Mackenzie,Mackenzie,MICRO,2,Central Peace,64 Centennial Dr,55.340084,-123.094444
+32,Maple Ridge,Maple Ridge,LARGE,7,Lower Mainland Capital,UNIT 175 -- 22470 Dewdney Trunk Rd,49.219883,-122.599586
+33,Masset,Masset,MICRO,1,North Coast,1666 Orr St,54.012707,-132.147247
+34,Merritt,Merritt,MICRO,4,Interior,2194 Coutlee Ave,50.108223,-120.785324
+35,Nakusp,Nakusp,SMALL,5,Kootenay,204 6th Ave NW,50.241566,-117.805176
+36,Nanaimo,Nanaimo,LARGE,3,Vancouver Island,460 Selby St,49.162148,-123.939514
+37,Nelson,Nelson,LARGE,6,Kootenay,310 Ward St,49.493191,-117.296028
+38,Oliver,Oliver,SMALL,5,Kootenay,RM 101 -- 583 Fairview Rd,49.18095,-119.5532
+39,Penticton,Penticton,LARGE,5,Interior,40 Calgary Ave,49.485542,-119.58744
+40,Port Alberni,Port Alberni,MEDIUM,3,Vancouver Island,4070 8th Ave,49.250038,-124.800896
+41,Port Hardy,Port Hardy,SMALL,3,Vancouver Island,8785 Gray St,50.719498,-127.494904
+42,Powell River,Powell River,SMALL,3,Vancouver Island,6953 Alberni St,49.845833,-124.522987
+43,Prince George,Prince George,LARGE,2,Central Peace,1044 5th Ave,53.914349,-122.7425
+44,Prince Rupert,Prince Rupert,MEDIUM,1,North Coast,201 3rd Ave W,54.31411,-130.322006
+45,Princeton,Princeton,MICRO,4,Interior,UNIT 10 -- 136 Tapton Ave,49.458992,-120.508942
+46,Daajing Giids,Queen Charlotte City,SMALL,1,North Coast,216 Oceanview Dr,53.254551,-132.082489
+47,Quesnel,Quesnel,MEDIUM,4,Central Peace,UNIT 102 -- 350 Barlow Ave,52.9771,-122.494682
+48,Revelstoke,Revelstoke,SMALL,5,Kootenay,UNIT 104 -- 1123 2nd St W,51.00457,-118.207619
+49,Salmon Arm,Salmon Arm,MEDIUM,5,Interior,850A 16 St NE,50.705482,-119.268257
+50,Sechelt,Sechelt,SMALL,3,Lower Mainland Capital,UNIT 102 -- 5710 Teredo St,49.471561,-123.758102
+51,Smithers,Smithers,MEDIUM,1,North Coast,1020 Murray St,54.777294,-127.173943
+52,Sparwood,Sparwood,SMALL,6,Kootenay,SUITE 96 -- 101 Red Cedar Dr,49.732502,-114.884979
+53,Squamish,Squamish,SMALL,7,Lower Mainland Capital,1360 Pemberton Ave,49.701435,-123.152306
+54,Stewart,Stewart,MICRO,1,North Coast,703 Brightwell St,55.938038,-129.991302
+55,Terrace,Terrace,MEDIUM,1,North Coast,UNIT 101 -- 3220 Eby St,54.517963,-128.599762
+56,Trail,Trail,MEDIUM,6,Kootenay,1050 Eldorado St,49.096405,-117.706924
+57,Ucluelet,Ucluelet,MICRO,3,Vancouver Island,UNIT 5 -- 1636 Peninsula Rd,48.941795,-125.547447
+58,Valemount,Valemount,MICRO,2,Interior,1300 4th Ave,52.833233,-119.267754
+59,Vanderhoof,Vanderhoof,SMALL,2,North Coast,189 Stewart St E,54.01638,-124.007271
+60,Vernon,Vernon,LARGE,5,Interior,3201 30 St,50.265568,-119.270538
+61,Victoria,Victoria,LARGE,7,Lower Mainland Capital,UNIT 403 -- 771 Vernon Ave,48.458359,-123.377106
+62,Williams Lake,Williams Lake,LARGE,4,Central Peace,SUITE 104 -- 540 Borland St,52.130417,-122.139999
+94,Test Office,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+95,Send Video1,NULL,NULL,NULL,"Send Video
+",NULL,NULL,NULL
+96,Burnaby,Burnaby,MEDIUM,7,Lower Mainland Capital,400 - 5021 Kingsway   Shared office with the Residential Tenancy Branch,49.2265112,-122.9919935
+97,Surrey,Surrey,MEDIUM,7,Lower Mainland Capital,"200 - 10470 152nd Street, Surrey, BC, V3R 0Y3 (Located inside the Ministry of Environment and Climate Change Strategy building)",49.192823,-122.800242
+98,Vancouver,Vancouver,MEDIUM,7,Lower Mainland Capital,"7th Floor - 865 Hornby Street, Vancouver, BC V6Z 1T9",49.2819955,-123.1233029
+99,Head Office,Head Office,NULL,NULL,Head Office,NULL,NULL,NULL
+454,Send Video2,NULL,NULL,NULL,"Send Video
+",NULL,NULL,NULL
+455,Send Video3,NULL,NULL,NULL,"Send Video
+",NULL,NULL,NULL
+456,Send Video4,NULL,NULL,NULL,"Send Video
+",NULL,NULL,NULL
+457,Send Video5,NULL,NULL,NULL,"Send Video
+",NULL,NULL,NULL
+458,Send Video6,NULL,NULL,NULL,"Send Video
+",NULL,NULL,NULL
+459,Rapid Response,NULL,NULL,NULL,Rapid Response,NULL,NULL,NULL
+500,Mobile Outreach,NULL,NULL,NULL,Mobile Outreach,NULL,NULL,NULL
