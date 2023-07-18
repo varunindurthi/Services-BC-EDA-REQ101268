@@ -1,0 +1,108 @@
+﻿city,city_type,median_age,population_density_per_square_km,pop_2021,is_urban
+Abbotsford, City ,39.2,409,153524,1
+Anmore, Village ,45.6,85.6,2356,0
+Ashcroft, Village ,58.4,32.8,1670,0
+Barriere, District municipality ,58.4,164.5,1765,0
+Belcarra, Village ,55.2,124.8,687,0
+Burnaby, City ,40.4,2750.7,249125,1
+Cache Creek, Village ,57.2,93.2,969,0
+Campbell River, City ,48,246,35519,0
+Canal Flats, Village ,49.2,72.5,802,0
+Castlegar, City ,45.6,419.6,8338,1
+Central Saanich, District municipality ,49.6,421.9,17385,1
+Chase, Village ,59.6,639.3,2399,1
+Chilliwack, City ,40.4,356.6,93203,0
+Clearwater, District municipality ,48.4,42.9,2388,0
+Clinton, Village ,58.8,69.7,568,0
+Colwood, City ,42.4,1073.6,18961,1
+Comox, Town ,52.4,877.7,14806,1
+Coquitlam, City ,41.6,1216.7,148625,1
+Courtenay, City ,48.8,876.7,28420,1
+Cranbrook, City ,45.2,641.2,20499,1
+Creston, Town ,57.6,664.2,5583,1
+Cumberland, Village ,39.2,153.1,4447,0
+Delta, City ,44,603.7,108455,1
+Duncan, City ,55.6,2444.5,5047,1
+Elkford, District municipality ,38.4,25.4,2749,0
+Esquimalt, District municipality ,43.2,2476.7,17533,1
+Fernie, City ,38,418.3,6320,1
+Fruitvale, Village ,50,724.7,1958,1
+Gibsons, Town ,56,1103.2,4758,1
+Gold River, Village ,56.4,114.2,1246,0
+Grand Forks, City ,56,396.4,4112,0
+Greenwood, City ,61.6,290.2,702,0
+Harrison Hot Springs, Village ,57.2,347.3,1905,0
+Highlands, District municipality ,45.6,65.3,2482,0
+Hope, District municipality ,54.8,163.6,6686,0
+Invermere, District municipality ,44,364.4,3917,0
+Kamloops, City ,41.6,328.6,97902,0
+Kaslo, Village ,58,348.7,1049,0
+Kent, District municipality ,48,37.4,6300,0
+Keremeos, Village ,63.6,768.3,1608,1
+Kimberley, City ,45.2,134.1,8115,0
+Ladysmith, Town ,52.8,746.5,8990,1
+Lake Cowichan, Town ,52,403.5,3325,1
+Langford, City ,38.4,1124.4,46584,1
+Langley, City ,41.2,2845.2,28963,1
+Langley, District municipality ,40.8,431.6,132603,1
+Lantzville, District municipality ,50.8,137.9,3817,0
+Lillooet, District municipality ,54.4,83.3,2302,0
+Lions Bay, Village ,50.4,549,1390,1
+Logan Lake, District municipality ,54.4,7,2255,0
+Lytton, Village ,58.4,31.2,210,0
+Maple Ridge, City ,41.2,339.7,90990,0
+Merritt, City ,49.2,270.7,7051,0
+Metchosin, District municipality ,50.8,72.8,5067,0
+Midway, Village ,62.8,53.2,651,0
+Mission, District municipality ,40,182.9,41519,0
+Montrose, Village ,44.8,693.1,1013,1
+Nakusp, Village ,53.2,197.7,1589,0
+Nanaimo, City ,45.2,1104.1,99863,1
+Nelson, City ,42.4,930.6,11106,1
+New Denver, Village ,62.8,559.6,487,0
+New Westminster, City ,40.4,5052.4,78916,1
+North Cowichan, District municipality ,51.2,163.7,31990,0
+North Saanich, District municipality ,56.8,329.2,12235,0
+North Vancouver, City ,42,4913,58120,1
+North Vancouver, District municipality ,44.4,548.8,88168,1
+Oak Bay, District municipality ,54.4,1710.1,17990,1
+Oliver, Town ,58,927.9,5094,1
+Osoyoos, Town ,63.2,660.7,5556,1
+Parksville, City ,62,939.5,13642,1
+Pemberton, Village ,36.4,55.5,3407,0
+Penticton, City ,52,857.3,36885,1
+Pitt Meadows, City ,43.2,221.7,19146,0
+Port Alberni, City ,49.2,928.9,18259,1
+Port Coquitlam, City ,41.6,2108.7,61498,1
+Port Moody, City ,41.6,1297.3,33535,1
+Powell River, City ,53.2,482.4,13943,1
+Princeton, Town ,52.8,48.8,2894,0
+Qualicum Beach, Town ,67.5,517.5,9303,1
+Radium Hot Springs, Village ,51.6,211.3,1339,0
+Richmond, City ,43.6,1629,209937,1
+Rossland, City ,40.8,69.3,4140,0
+Saanich, District municipality ,44.4,1136.6,117735,1
+Salmo, Village ,50.4,466.4,1140,1
+Sayward, Village ,60.4,75.2,334,0
+Sechelt, District municipality ,57.6,278,10847,0
+Sidney, Town ,62,2412.8,12318,1
+Silverton, Village ,64,420.8,149,0
+Slocan, Village ,49.2,488.6,379,0
+Sooke, District municipality ,44.8,266.6,15086,0
+Sparwood, District municipality ,38.4,21.7,4148,0
+Squamish, District municipality ,37.6,227.5,23819,0
+Summerland, District municipality ,54.4,162.6,12042,0
+Sun Peaks Mountain, Village ,40,34.4,1404,0
+Surrey, City ,38.4,1797.9,568322,1
+Tahsis, Village ,58.8,74.7,393,0
+Tofino, District municipality ,36.4,238.3,2516,0
+Trail, City ,49.6,226.9,7920,0
+Ucluelet, District municipality ,39.6,318.8,2066,0
+Vancouver, City ,39.6,5749.9,662248,1
+Victoria, City ,42.8,4722.3,91867,1
+View Royal, Town ,44.8,807.6,11575,1
+Warfield, Village ,44.8,929.3,1753,1
+West Vancouver, District municipality ,50.8,506.1,44122,1
+Whistler, District municipality ,35.6,58.3,13982,0
+White Rock, City ,58,4240.6,21939,1
+Zeballos, Village ,50.8,81.4,126,0

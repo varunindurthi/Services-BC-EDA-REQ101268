@@ -1,1 +1,7 @@
 *.pdf
+*.shp
+*.dbf
+*.prj
+*.shx
+*.xml
+*.html
