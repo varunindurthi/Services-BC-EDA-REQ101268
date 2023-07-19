@@ -4,7 +4,7 @@ This repository contains all the files related to the transaction analysis proje
 
 ## Repository Structure
 
-- `data_analysis.ipynb`: The main notebook for the analysis.
+- `REQ101268_Varun_Reddy_Indurthi_data_analysis.ipynb`: The main notebook for the analysis.
 
 - `data/`: This directory contains all the data files used in the project.
   - Needs location data for BC boundaries (statscanada) and First nations locations (open government). These shape files are huge to host on github.
